@@ -1,2 +1,3 @@
 git init : sirve para inicializar el git en la carpeta actual.
 git add  [nombre_archivo] / git add . : sirve para guardar los cambios.
+git commit -m "[texto]" : para salvar los cambios de la version.
