@@ -14,4 +14,6 @@
 
 ## Comandos de cambios.
 - ````git show [file]```` : Mostrar los cambios del archivo con el commit anterior.
-- ````git log```` : Muestra el historial de todos los commits que hemos realizado
+- ````git log```` : Muestra el historial de todos los commits que hemos realizado.
+- ````git status```` : Muestras si no hay cambios por guardar.
+- ````git diff commitA commitB```` : para ver la diferencia entre dos commits.
