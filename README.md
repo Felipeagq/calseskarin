@@ -11,3 +11,7 @@
 - ````git branch RAMA```` : crear una rama
 - ````git checkout RAMA```` : pasarme a una rama.
 - ````git checkout -b RAMA```` : crear y pasarme a una rama.
+
+## Comandos de cambios.
+- ````git show [file]```` : Mostrar los cambios del archivo con el commit anterior.
+- ````git log```` : Muestra el historial de todos los commits que hemos realizado
